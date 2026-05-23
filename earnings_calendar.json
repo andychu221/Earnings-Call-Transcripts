@@ -38,7 +38,7 @@
     {
         "Symbol": "AAPL",
         "Earnings Date": "2025-01-31 05:00",
-        "EPS Estimate": "2.35",
+        "EPS Estimate": "2.34",
         "Reported EPS": "2.4"
     },
     {
@@ -128,7 +128,7 @@
     {
         "Symbol": "AAPL",
         "Earnings Date": "2021-04-29 04:00",
-        "EPS Estimate": "0.99",
+        "EPS Estimate": "0.98",
         "Reported EPS": "1.4"
     },
     {
@@ -171,7 +171,7 @@
         "Symbol": "MSFT",
         "Earnings Date": "2025-10-30 04:00",
         "EPS Estimate": "3.66",
-        "Reported EPS": "4.13"
+        "Reported EPS": "3.72"
     },
     {
         "Symbol": "MSFT",
@@ -308,7 +308,7 @@
     {
         "Symbol": "GOOGL",
         "Earnings Date": "2026-04-30 04:00",
-        "EPS Estimate": "2.63",
+        "EPS Estimate": "2.67",
         "Reported EPS": "5.11"
     },
     {
@@ -326,7 +326,7 @@
     {
         "Symbol": "GOOGL",
         "Earnings Date": "2025-07-24 04:00",
-        "EPS Estimate": "2.2",
+        "EPS Estimate": "2.19",
         "Reported EPS": "2.31"
     },
     {
@@ -398,7 +398,7 @@
     {
         "Symbol": "GOOGL",
         "Earnings Date": "2022-07-27 04:00",
-        "EPS Estimate": "1.29",
+        "EPS Estimate": "1.27",
         "Reported EPS": "1.21"
     },
     {
@@ -464,7 +464,7 @@
     {
         "Symbol": "AMZN",
         "Earnings Date": "2026-02-06 05:00",
-        "EPS Estimate": "1.96",
+        "EPS Estimate": "1.95",
         "Reported EPS": "1.95"
     },
     {
@@ -500,7 +500,7 @@
     {
         "Symbol": "AMZN",
         "Earnings Date": "2024-08-02 00:00",
-        "EPS Estimate": "1.03",
+        "EPS Estimate": "1.02",
         "Reported EPS": "1.26"
     },
     {
@@ -518,7 +518,7 @@
     {
         "Symbol": "AMZN",
         "Earnings Date": "2023-10-27 04:00",
-        "EPS Estimate": "0.58",
+        "EPS Estimate": "0.59",
         "Reported EPS": "0.94"
     },
     {
@@ -536,7 +536,7 @@
     {
         "Symbol": "AMZN",
         "Earnings Date": "2023-02-03 05:00",
-        "EPS Estimate": "0.16",
+        "EPS Estimate": "0.17",
         "Reported EPS": "0.03"
     },
     {
@@ -554,7 +554,7 @@
     {
         "Symbol": "AMZN",
         "Earnings Date": "2022-04-29 04:00",
-        "EPS Estimate": "0.41",
+        "EPS Estimate": "0.42",
         "Reported EPS": "-0.38"
     },
     {
@@ -572,25 +572,25 @@
     {
         "Symbol": "AMZN",
         "Earnings Date": "2021-07-30 04:00",
-        "EPS Estimate": "0.62",
+        "EPS Estimate": "0.61",
         "Reported EPS": "0.76"
     },
     {
         "Symbol": "AMZN",
         "Earnings Date": "2021-04-30 04:00",
-        "EPS Estimate": "0.48",
+        "EPS Estimate": "0.47",
         "Reported EPS": "0.79"
     },
     {
         "Symbol": "AMZN",
         "Earnings Date": "2021-02-03 05:00",
-        "EPS Estimate": "0.36",
+        "EPS Estimate": "0.35",
         "Reported EPS": "0.7"
     },
     {
         "Symbol": "AMZN",
         "Earnings Date": "2020-10-30 04:00",
-        "EPS Estimate": "0.37",
+        "EPS Estimate": "0.38",
         "Reported EPS": "0.62"
     },
     {
@@ -602,7 +602,7 @@
     {
         "Symbol": "NVDA",
         "Earnings Date": "2026-08-27 04:00",
-        "EPS Estimate": "1.96",
+        "EPS Estimate": "2.09",
         "Reported EPS": "-"
     },
     {
@@ -764,19 +764,19 @@
     {
         "Symbol": "META",
         "Earnings Date": "2026-01-29 05:00",
-        "EPS Estimate": "8.18",
+        "EPS Estimate": "8.22",
         "Reported EPS": "8.88"
     },
     {
         "Symbol": "META",
         "Earnings Date": "2025-10-30 04:00",
-        "EPS Estimate": "6.67",
-        "Reported EPS": "7.25"
+        "EPS Estimate": "6.71",
+        "Reported EPS": "1.05"
     },
     {
         "Symbol": "META",
         "Earnings Date": "2025-07-31 04:00",
-        "EPS Estimate": "5.86",
+        "EPS Estimate": "5.9",
         "Reported EPS": "7.14"
     },
     {
@@ -806,13 +806,13 @@
     {
         "Symbol": "META",
         "Earnings Date": "2024-04-25 04:00",
-        "EPS Estimate": "4.36",
+        "EPS Estimate": "4.32",
         "Reported EPS": "4.71"
     },
     {
         "Symbol": "META",
         "Earnings Date": "2024-02-02 05:00",
-        "EPS Estimate": "4.97",
+        "EPS Estimate": "4.94",
         "Reported EPS": "5.33"
     },
     {
@@ -824,13 +824,13 @@
     {
         "Symbol": "META",
         "Earnings Date": "2023-07-27 04:00",
-        "EPS Estimate": "2.87",
+        "EPS Estimate": "2.91",
         "Reported EPS": "2.98"
     },
     {
         "Symbol": "META",
         "Earnings Date": "2023-04-27 04:00",
-        "EPS Estimate": "1.95",
+        "EPS Estimate": "1.98",
         "Reported EPS": "2.2"
     },
     {
@@ -854,7 +854,7 @@
     {
         "Symbol": "META",
         "Earnings Date": "2022-04-28 04:00",
-        "EPS Estimate": "2.53",
+        "EPS Estimate": "2.55",
         "Reported EPS": "2.72"
     },
     {
@@ -866,7 +866,7 @@
     {
         "Symbol": "META",
         "Earnings Date": "2021-10-26 04:00",
-        "EPS Estimate": "3.18",
+        "EPS Estimate": "3.17",
         "Reported EPS": "3.22"
     },
     {
@@ -891,7 +891,7 @@
         "Symbol": "META",
         "Earnings Date": "2020-10-30 04:00",
         "EPS Estimate": "1.91",
-        "Reported EPS": "2.4"
+        "Reported EPS": "2.71"
     },
     {
         "Symbol": "META",
@@ -920,8 +920,8 @@
     {
         "Symbol": "TSLA",
         "Earnings Date": "2025-10-23 04:00",
-        "EPS Estimate": "0.56",
-        "Reported EPS": "0.5"
+        "EPS Estimate": "0.44",
+        "Reported EPS": "0.39"
     },
     {
         "Symbol": "TSLA",
@@ -944,8 +944,8 @@
     {
         "Symbol": "TSLA",
         "Earnings Date": "2024-10-24 04:00",
-        "EPS Estimate": "0.5",
-        "Reported EPS": "0.62"
+        "EPS Estimate": "0.6",
+        "Reported EPS": "0.72"
     },
     {
         "Symbol": "TSLA",
@@ -1214,8 +1214,8 @@
     {
         "Symbol": "AVGO",
         "Earnings Date": "2025-12-12 05:00",
-        "EPS Estimate": "1.87",
-        "Reported EPS": "1.95"
+        "EPS Estimate": "1.12",
+        "Reported EPS": "1.74"
     },
     {
         "Symbol": "AVGO",
@@ -1664,8 +1664,8 @@
     {
         "Symbol": "QCOM",
         "Earnings Date": "2026-02-05 05:00",
-        "EPS Estimate": "2.75",
-        "Reported EPS": "2.78"
+        "EPS Estimate": "3.4",
+        "Reported EPS": "3.5"
     },
     {
         "Symbol": "QCOM",
@@ -1676,8 +1676,8 @@
     {
         "Symbol": "QCOM",
         "Earnings Date": "2025-07-31 04:00",
-        "EPS Estimate": "2.27",
-        "Reported EPS": "2.43"
+        "EPS Estimate": "2.71",
+        "Reported EPS": "2.77"
     },
     {
         "Symbol": "QCOM",
@@ -1994,8 +1994,8 @@
     {
         "Symbol": "ADI",
         "Earnings Date": "2024-11-26 20:00",
-        "EPS Estimate": "0.84",
-        "Reported EPS": "0.96"
+        "EPS Estimate": "1.64",
+        "Reported EPS": "1.67"
     },
     {
         "Symbol": "ADI",
@@ -2264,7 +2264,7 @@
     {
         "Symbol": "STM",
         "Earnings Date": "2026-01-29 14:00",
-        "EPS Estimate": "0.28",
+        "EPS Estimate": "0.27",
         "Reported EPS": "0.11"
     },
     {
@@ -2330,7 +2330,7 @@
     {
         "Symbol": "STM",
         "Earnings Date": "2023-04-27 13:00",
-        "EPS Estimate": "1.02",
+        "EPS Estimate": "1.01",
         "Reported EPS": "1.1"
     },
     {
@@ -2559,30 +2559,30 @@
         "Symbol": "TXN",
         "Earnings Date": "2026-04-23 04:00",
         "EPS Estimate": "1.37",
-        "Reported EPS": "1.71"
+        "Reported EPS": "1.68"
     },
     {
         "Symbol": "TXN",
         "Earnings Date": "2026-01-28 05:00",
-        "EPS Estimate": "1.28",
-        "Reported EPS": "1.31"
+        "EPS Estimate": "1.31",
+        "Reported EPS": "1.27"
     },
     {
         "Symbol": "TXN",
         "Earnings Date": "2025-10-22 04:00",
         "EPS Estimate": "1.49",
-        "Reported EPS": "1.57"
+        "Reported EPS": "1.48"
     },
     {
         "Symbol": "TXN",
         "Earnings Date": "2025-07-23 04:00",
-        "EPS Estimate": "1.37",
+        "EPS Estimate": "1.33",
         "Reported EPS": "1.41"
     },
     {
         "Symbol": "TXN",
         "Earnings Date": "2025-04-24 04:00",
-        "EPS Estimate": "1.1",
+        "EPS Estimate": "1.06",
         "Reported EPS": "1.28"
     },
     {
@@ -2594,14 +2594,14 @@
     {
         "Symbol": "TXN",
         "Earnings Date": "2024-10-23 04:00",
-        "EPS Estimate": "1.37",
-        "Reported EPS": "1.47"
+        "EPS Estimate": "1.41",
+        "Reported EPS": "1.44"
     },
     {
         "Symbol": "TXN",
         "Earnings Date": "2024-07-24 04:00",
-        "EPS Estimate": "1.19",
-        "Reported EPS": "1.17"
+        "EPS Estimate": "1.16",
+        "Reported EPS": "1.22"
     },
     {
         "Symbol": "TXN",
@@ -2612,13 +2612,13 @@
     {
         "Symbol": "TXN",
         "Earnings Date": "2024-01-24 05:00",
-        "EPS Estimate": "1.49",
-        "Reported EPS": "1.46"
+        "EPS Estimate": "1.47",
+        "Reported EPS": "1.49"
     },
     {
         "Symbol": "TXN",
         "Earnings Date": "2023-10-25 04:00",
-        "EPS Estimate": "1.84",
+        "EPS Estimate": "1.82",
         "Reported EPS": "1.85"
     },
     {
@@ -2630,14 +2630,14 @@
     {
         "Symbol": "TXN",
         "Earnings Date": "2023-04-26 04:00",
-        "EPS Estimate": "1.8",
+        "EPS Estimate": "1.78",
         "Reported EPS": "1.85"
     },
     {
         "Symbol": "TXN",
         "Earnings Date": "2023-01-25 05:00",
-        "EPS Estimate": "2.03",
-        "Reported EPS": "2.19"
+        "EPS Estimate": "1.98",
+        "Reported EPS": "2.13"
     },
     {
         "Symbol": "TXN",
@@ -2678,14 +2678,14 @@
     {
         "Symbol": "TXN",
         "Earnings Date": "2021-04-28 04:00",
-        "EPS Estimate": "1.61",
-        "Reported EPS": "1.92"
+        "EPS Estimate": "1.58",
+        "Reported EPS": "1.87"
     },
     {
         "Symbol": "TXN",
         "Earnings Date": "2021-01-27 05:00",
-        "EPS Estimate": "1.34",
-        "Reported EPS": "1.86"
+        "EPS Estimate": "1.33",
+        "Reported EPS": "1.8"
     },
     {
         "Symbol": "TXN",
@@ -3344,8 +3344,8 @@
     {
         "Symbol": "KLAC",
         "Earnings Date": "2024-10-31 04:00",
-        "EPS Estimate": "7.05",
-        "Reported EPS": "7.33"
+        "EPS Estimate": "6.78",
+        "Reported EPS": "7.01"
     },
     {
         "Symbol": "KLAC",
@@ -3356,8 +3356,8 @@
     {
         "Symbol": "KLAC",
         "Earnings Date": "2024-04-26 04:00",
-        "EPS Estimate": "5.06",
-        "Reported EPS": "5.26"
+        "EPS Estimate": "4.38",
+        "Reported EPS": "4.43"
     },
     {
         "Symbol": "KLAC",
@@ -3476,8 +3476,8 @@
     {
         "Symbol": "MU",
         "Earnings Date": "2025-06-26 04:00",
-        "EPS Estimate": "1.59",
-        "Reported EPS": "1.91"
+        "EPS Estimate": "1.45",
+        "Reported EPS": "1.68"
     },
     {
         "Symbol": "MU",
@@ -3716,8 +3716,8 @@
     {
         "Symbol": "ADI",
         "Earnings Date": "2024-11-26 20:00",
-        "EPS Estimate": "0.84",
-        "Reported EPS": "0.96"
+        "EPS Estimate": "1.64",
+        "Reported EPS": "1.67"
     },
     {
         "Symbol": "ADI",
@@ -4166,8 +4166,8 @@
     {
         "Symbol": "MCHP",
         "Earnings Date": "2026-05-08 04:00",
-        "EPS Estimate": "0.5",
-        "Reported EPS": "0.57"
+        "EPS Estimate": "0.13",
+        "Reported EPS": "0.21"
     },
     {
         "Symbol": "MCHP",
@@ -4226,8 +4226,8 @@
     {
         "Symbol": "MCHP",
         "Earnings Date": "2023-11-03 04:00",
-        "EPS Estimate": "1.61",
-        "Reported EPS": "1.62"
+        "EPS Estimate": "1.2",
+        "Reported EPS": "1.21"
     },
     {
         "Symbol": "MCHP",
@@ -4244,8 +4244,8 @@
     {
         "Symbol": "MCHP",
         "Earnings Date": "2023-02-03 05:00",
-        "EPS Estimate": "1.07",
-        "Reported EPS": "1.04"
+        "EPS Estimate": "1.54",
+        "Reported EPS": "1.56"
     },
     {
         "Symbol": "MCHP",
@@ -4310,7 +4310,7 @@
     {
         "Symbol": "GFS",
         "Earnings Date": "2026-08-04 20:00",
-        "EPS Estimate": "0.42",
+        "EPS Estimate": "0.43",
         "Reported EPS": "-"
     },
     {
@@ -4580,7 +4580,7 @@
     {
         "Symbol": "2454.TW",
         "Earnings Date": "2026-07-29 15:00",
-        "EPS Estimate": "13.83",
+        "EPS Estimate": "13.82",
         "Reported EPS": "-"
     },
     {
@@ -5594,7 +5594,7 @@
     {
         "Symbol": "3661.TW",
         "Earnings Date": "2025-11-11 14:00",
-        "EPS Estimate": "16.28",
+        "EPS Estimate": "16.44",
         "Reported EPS": "16.04"
     },
     {
@@ -6182,7 +6182,7 @@
     {
         "Symbol": "2344.TW",
         "Earnings Date": "2026-05-05 14:00",
-        "EPS Estimate": "1.89",
+        "EPS Estimate": "1.9",
         "Reported EPS": "2"
     },
     {
@@ -6326,7 +6326,7 @@
     {
         "Symbol": "2408.TW",
         "Earnings Date": "2026-07-16 14:00",
-        "EPS Estimate": "11.59",
+        "EPS Estimate": "11.67",
         "Reported EPS": "-"
     },
     {
@@ -6481,6 +6481,12 @@
     },
     {
         "Symbol": "0981.HK",
+        "Earnings Date": "2026-05-14 08:00",
+        "EPS Estimate": "0.03",
+        "Reported EPS": "0.02"
+    },
+    {
+        "Symbol": "0981.HK",
         "Earnings Date": "2026-02-10 17:00",
         "EPS Estimate": "0.02",
         "Reported EPS": "0.02"
@@ -6616,12 +6622,6 @@
         "Earnings Date": "2020-08-27 19:00",
         "EPS Estimate": "0.02",
         "Reported EPS": "0.03"
-    },
-    {
-        "Symbol": "0981.HK",
-        "Earnings Date": "2020-05-13 18:00",
-        "EPS Estimate": "0.01",
-        "Reported EPS": "0.01"
     },
     {
         "Symbol": "688981.SS",
@@ -7370,7 +7370,7 @@
     {
         "Symbol": "005930.KS",
         "Earnings Date": "2026-07-30 09:00",
-        "EPS Estimate": "10839.83",
+        "EPS Estimate": "10957.31",
         "Reported EPS": "-"
     },
     {
@@ -7526,7 +7526,7 @@
     {
         "Symbol": "000660.KS",
         "Earnings Date": "2026-04-23 08:00",
-        "EPS Estimate": "40016.55",
+        "EPS Estimate": "37310.01",
         "Reported EPS": "56670"
     },
     {
