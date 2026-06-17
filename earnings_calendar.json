@@ -452,7 +452,7 @@
     {
         "Symbol": "AMZN",
         "Earnings Date": "2026-07-31 04:00",
-        "EPS Estimate": "1.82",
+        "EPS Estimate": "1.81",
         "Reported EPS": "-"
     },
     {
@@ -902,7 +902,7 @@
     {
         "Symbol": "TSLA",
         "Earnings Date": "2026-07-23 04:00",
-        "EPS Estimate": "0.45",
+        "EPS Estimate": "0.46",
         "Reported EPS": "-"
     },
     {
@@ -1052,7 +1052,7 @@
     {
         "Symbol": "TSM",
         "Earnings Date": "2026-07-16 14:00",
-        "EPS Estimate": "3.74",
+        "EPS Estimate": "3.81",
         "Reported EPS": "-"
     },
     {
@@ -3002,7 +3002,7 @@
     {
         "Symbol": "LRCX",
         "Earnings Date": "2026-07-30 04:00",
-        "EPS Estimate": "1.67",
+        "EPS Estimate": "1.68",
         "Reported EPS": "-"
     },
     {
@@ -3452,7 +3452,7 @@
     {
         "Symbol": "MU",
         "Earnings Date": "2026-06-25 04:00",
-        "EPS Estimate": "19.66",
+        "EPS Estimate": "19.69",
         "Reported EPS": "-"
     },
     {
@@ -3972,6 +3972,42 @@
         "Reported EPS": "1.08"
     },
     {
+        "Symbol": "SNDK",
+        "Earnings Date": "2026-08-25 04:00",
+        "EPS Estimate": "33.72",
+        "Reported EPS": "-"
+    },
+    {
+        "Symbol": "SNDK",
+        "Earnings Date": "2026-05-01 04:00",
+        "EPS Estimate": "14.66",
+        "Reported EPS": "23.41"
+    },
+    {
+        "Symbol": "SNDK",
+        "Earnings Date": "2026-01-30 05:00",
+        "EPS Estimate": "3.54",
+        "Reported EPS": "6.2"
+    },
+    {
+        "Symbol": "SNDK",
+        "Earnings Date": "2025-11-07 05:00",
+        "EPS Estimate": "0.89",
+        "Reported EPS": "1.22"
+    },
+    {
+        "Symbol": "SNDK",
+        "Earnings Date": "2025-08-15 04:00",
+        "EPS Estimate": "0.03",
+        "Reported EPS": "0.29"
+    },
+    {
+        "Symbol": "SNDK",
+        "Earnings Date": "2025-05-08 04:00",
+        "EPS Estimate": "-0.39",
+        "Reported EPS": "-0.3"
+    },
+    {
         "Symbol": "CSCO",
         "Earnings Date": "2026-08-13 04:00",
         "EPS Estimate": "1.17",
@@ -4394,7 +4430,7 @@
     {
         "Symbol": "2330.TW",
         "Earnings Date": "2026-07-16 14:00",
-        "EPS Estimate": "23.75",
+        "EPS Estimate": "23.86",
         "Reported EPS": "-"
     },
     {
@@ -4694,7 +4730,7 @@
     {
         "Symbol": "2330.TW",
         "Earnings Date": "2026-07-16 14:00",
-        "EPS Estimate": "23.75",
+        "EPS Estimate": "23.86",
         "Reported EPS": "-"
     },
     {
@@ -4844,7 +4880,7 @@
     {
         "Symbol": "2303.TW",
         "Earnings Date": "2026-07-29 15:00",
-        "EPS Estimate": "0.98",
+        "EPS Estimate": "1.01",
         "Reported EPS": "-"
     },
     {
@@ -4994,7 +5030,7 @@
     {
         "Symbol": "3443.TW",
         "Earnings Date": "2026-07-30 14:00",
-        "EPS Estimate": "9.64",
+        "EPS Estimate": "9.85",
         "Reported EPS": "-"
     },
     {
@@ -5390,7 +5426,7 @@
     {
         "Symbol": "5347.TWO",
         "Earnings Date": "2026-07-28 13:00",
-        "EPS Estimate": "1.55",
+        "EPS Estimate": "1.54",
         "Reported EPS": "-"
     },
     {
@@ -5540,7 +5576,7 @@
     {
         "Symbol": "3661.TW",
         "Earnings Date": "2026-08-12 14:00",
-        "EPS Estimate": "22.77",
+        "EPS Estimate": "21.34",
         "Reported EPS": "-"
     },
     {
@@ -6140,7 +6176,7 @@
     {
         "Symbol": "2344.TW",
         "Earnings Date": "2026-08-04 14:00",
-        "EPS Estimate": "4.47",
+        "EPS Estimate": "4.56",
         "Reported EPS": "-"
     },
     {
@@ -7334,7 +7370,7 @@
     {
         "Symbol": "005930.KS",
         "Earnings Date": "2026-07-30 09:00",
-        "EPS Estimate": "11032.84",
+        "EPS Estimate": "11061.49",
         "Reported EPS": "-"
     },
     {
