@@ -301,8 +301,8 @@
     },
     {
         "Symbol": "GOOGL",
-        "Earnings Date": "2026-07-24 04:00",
-        "EPS Estimate": "2.87",
+        "Earnings Date": "2026-07-23 04:00",
+        "EPS Estimate": "2.89",
         "Reported EPS": "-"
     },
     {
@@ -452,7 +452,7 @@
     {
         "Symbol": "AMZN",
         "Earnings Date": "2026-07-31 04:00",
-        "EPS Estimate": "1.81",
+        "EPS Estimate": "1.82",
         "Reported EPS": "-"
     },
     {
@@ -3973,7 +3973,7 @@
     },
     {
         "Symbol": "SNDK",
-        "Earnings Date": "2026-08-25 04:00",
+        "Earnings Date": "2026-08-06 04:00",
         "EPS Estimate": "33.88",
         "Reported EPS": "-"
     },
@@ -7516,156 +7516,6 @@
         "Earnings Date": "2020-07-30 09:00",
         "EPS Estimate": "811.65",
         "Reported EPS": "808"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2026-07-30 08:00",
-        "EPS Estimate": "70955.55",
-        "Reported EPS": "-"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2026-04-23 08:00",
-        "EPS Estimate": "40016.55",
-        "Reported EPS": "56670"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2026-01-29 08:00",
-        "EPS Estimate": "17822.42",
-        "Reported EPS": "21522"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2025-10-29 08:00",
-        "EPS Estimate": "12586.41",
-        "Reported EPS": "17850"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2025-07-24 08:00",
-        "EPS Estimate": "9338.13",
-        "Reported EPS": "9572"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2025-04-24 08:00",
-        "EPS Estimate": "6916.46",
-        "Reported EPS": "11411"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2025-01-23 08:00",
-        "EPS Estimate": "8544.13",
-        "Reported EPS": "11571"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2024-10-24 08:00",
-        "EPS Estimate": "7275.18",
-        "Reported EPS": "7924"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2024-07-25 08:00",
-        "EPS Estimate": "5417.03",
-        "Reported EPS": "5938"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2024-04-25 08:00",
-        "EPS Estimate": "1832.15",
-        "Reported EPS": "2788"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2024-01-26 08:00",
-        "EPS Estimate": "-479.46",
-        "Reported EPS": "-1972"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2023-10-27 08:00",
-        "EPS Estimate": "-2422.83",
-        "Reported EPS": "-3174"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2023-07-27 08:00",
-        "EPS Estimate": "-3081.82",
-        "Reported EPS": "-4347"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2023-04-27 08:00",
-        "EPS Estimate": "-3530.9",
-        "Reported EPS": "-3751"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2023-02-23 08:00",
-        "EPS Estimate": "-984.49",
-        "Reported EPS": "-5419"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2022-10-26 08:00",
-        "EPS Estimate": "2750.68",
-        "Reported EPS": "1609"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2022-08-17 08:00",
-        "EPS Estimate": "4287.05",
-        "Reported EPS": "4175"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2022-04-27 08:00",
-        "EPS Estimate": "3396.73",
-        "Reported EPS": "2877"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2022-03-12 08:00",
-        "EPS Estimate": "4392.2",
-        "Reported EPS": "4825"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2021-11-16 08:00",
-        "EPS Estimate": "4380.05",
-        "Reported EPS": "4813"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2021-08-18 08:00",
-        "EPS Estimate": "2757.77",
-        "Reported EPS": "2890"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2021-05-18 08:00",
-        "EPS Estimate": "1432.8",
-        "Reported EPS": "1447"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2021-03-23 08:00",
-        "EPS Estimate": "1028.03",
-        "Reported EPS": "2582"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2020-11-04 08:00",
-        "EPS Estimate": "1427.02",
-        "Reported EPS": "1575"
-    },
-    {
-        "Symbol": "000660.KS",
-        "Earnings Date": "2020-07-23 08:00",
-        "EPS Estimate": "1630.14",
-        "Reported EPS": "1846"
     },
     {
         "Symbol": "108320.KS",
