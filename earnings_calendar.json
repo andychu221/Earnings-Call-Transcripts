@@ -158,7 +158,7 @@
     {
         "Symbol": "MSFT",
         "Earnings Date": "2026-04-30 04:00",
-        "EPS Estimate": "4.06",
+        "EPS Estimate": "4.07",
         "Reported EPS": "4.27"
     },
     {
@@ -602,7 +602,7 @@
     {
         "Symbol": "NVDA",
         "Earnings Date": "2026-08-27 04:00",
-        "EPS Estimate": "2.08",
+        "EPS Estimate": "2.09",
         "Reported EPS": "-"
     },
     {
@@ -902,7 +902,7 @@
     {
         "Symbol": "TSLA",
         "Earnings Date": "2026-07-23 04:00",
-        "EPS Estimate": "0.5",
+        "EPS Estimate": "0.54",
         "Reported EPS": "-"
     },
     {
@@ -1051,12 +1051,6 @@
     },
     {
         "Symbol": "TSM",
-        "Earnings Date": "2026-07-16 14:00",
-        "EPS Estimate": "3.89",
-        "Reported EPS": "-"
-    },
-    {
-        "Symbol": "TSM",
         "Earnings Date": "2026-04-16 14:00",
         "EPS Estimate": "3.33",
         "Reported EPS": "3.49"
@@ -1198,6 +1192,12 @@
         "Earnings Date": "2020-07-16 14:00",
         "EPS Estimate": "0.71",
         "Reported EPS": "0.78"
+    },
+    {
+        "Symbol": "TSM",
+        "Earnings Date": "2020-04-16 14:00",
+        "EPS Estimate": "0.69",
+        "Reported EPS": "0.75"
     },
     {
         "Symbol": "AVGO",
@@ -1652,7 +1652,7 @@
     {
         "Symbol": "QCOM",
         "Earnings Date": "2026-07-30 04:00",
-        "EPS Estimate": "2.22",
+        "EPS Estimate": "2.23",
         "Reported EPS": "-"
     },
     {
@@ -2102,7 +2102,7 @@
     {
         "Symbol": "QRVO",
         "Earnings Date": "2026-07-29 04:00",
-        "EPS Estimate": "1.06",
+        "EPS Estimate": "1.07",
         "Reported EPS": "-"
     },
     {
@@ -2264,7 +2264,7 @@
     {
         "Symbol": "STM",
         "Earnings Date": "2026-01-29 14:00",
-        "EPS Estimate": "0.28",
+        "EPS Estimate": "0.27",
         "Reported EPS": "0.11"
     },
     {
@@ -2702,7 +2702,7 @@
     {
         "Symbol": "ON",
         "Earnings Date": "2026-08-03 20:00",
-        "EPS Estimate": "0.71",
+        "EPS Estimate": "0.72",
         "Reported EPS": "-"
     },
     {
@@ -2851,6 +2851,12 @@
     },
     {
         "Symbol": "ASML",
+        "Earnings Date": "2026-10-14 20:00",
+        "EPS Estimate": "10.3",
+        "Reported EPS": "-"
+    },
+    {
+        "Symbol": "ASML",
         "Earnings Date": "2026-07-14 08:00",
         "EPS Estimate": "6.9",
         "Reported EPS": "7.58"
@@ -2992,12 +2998,6 @@
         "Earnings Date": "2020-10-14 13:00",
         "EPS Estimate": "2.26",
         "Reported EPS": "2.53"
-    },
-    {
-        "Symbol": "ASML",
-        "Earnings Date": "2020-07-15 13:00",
-        "EPS Estimate": "2.06",
-        "Reported EPS": "1.79"
     },
     {
         "Symbol": "LRCX",
@@ -3452,7 +3452,7 @@
     {
         "Symbol": "MU",
         "Earnings Date": "2026-09-24 04:00",
-        "EPS Estimate": "31.29",
+        "EPS Estimate": "31.33",
         "Reported EPS": "-"
     },
     {
@@ -3824,7 +3824,7 @@
     {
         "Symbol": "MPWR",
         "Earnings Date": "2026-07-31 04:00",
-        "EPS Estimate": "5.86",
+        "EPS Estimate": "5.87",
         "Reported EPS": "-"
     },
     {
@@ -3974,7 +3974,7 @@
     {
         "Symbol": "SNDK",
         "Earnings Date": "2026-08-06 04:00",
-        "EPS Estimate": "33.88",
+        "EPS Estimate": "34.12",
         "Reported EPS": "-"
     },
     {
@@ -4430,8 +4430,8 @@
     {
         "Symbol": "2330.TW",
         "Earnings Date": "2026-07-16 14:00",
-        "EPS Estimate": "24.09",
-        "Reported EPS": "-"
+        "EPS Estimate": "24.31",
+        "Reported EPS": "27.25"
     },
     {
         "Symbol": "2330.TW",
@@ -4730,8 +4730,8 @@
     {
         "Symbol": "2330.TW",
         "Earnings Date": "2026-07-16 14:00",
-        "EPS Estimate": "24.09",
-        "Reported EPS": "-"
+        "EPS Estimate": "24.31",
+        "Reported EPS": "27.25"
     },
     {
         "Symbol": "2330.TW",
