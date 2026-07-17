@@ -1051,6 +1051,18 @@
     },
     {
         "Symbol": "TSM",
+        "Earnings Date": "2026-10-15 14:00",
+        "EPS Estimate": "4.5",
+        "Reported EPS": "-"
+    },
+    {
+        "Symbol": "TSM",
+        "Earnings Date": "2026-07-16 14:00",
+        "EPS Estimate": "3.89",
+        "Reported EPS": "4.31"
+    },
+    {
+        "Symbol": "TSM",
         "Earnings Date": "2026-04-16 14:00",
         "EPS Estimate": "3.33",
         "Reported EPS": "3.49"
@@ -1186,18 +1198,6 @@
         "Earnings Date": "2020-10-15 14:00",
         "EPS Estimate": "0.82",
         "Reported EPS": "0.9"
-    },
-    {
-        "Symbol": "TSM",
-        "Earnings Date": "2020-07-16 14:00",
-        "EPS Estimate": "0.71",
-        "Reported EPS": "0.78"
-    },
-    {
-        "Symbol": "TSM",
-        "Earnings Date": "2020-04-16 14:00",
-        "EPS Estimate": "0.69",
-        "Reported EPS": "0.75"
     },
     {
         "Symbol": "AVGO",
@@ -2701,7 +2701,7 @@
     },
     {
         "Symbol": "ON",
-        "Earnings Date": "2026-08-03 20:00",
+        "Earnings Date": "2026-08-04 04:00",
         "EPS Estimate": "0.72",
         "Reported EPS": "-"
     },
@@ -4429,8 +4429,14 @@
     },
     {
         "Symbol": "2330.TW",
+        "Earnings Date": "2026-10-15 14:00",
+        "EPS Estimate": "28.03",
+        "Reported EPS": "-"
+    },
+    {
+        "Symbol": "2330.TW",
         "Earnings Date": "2026-07-16 14:00",
-        "EPS Estimate": "24.31",
+        "EPS Estimate": "24.23",
         "Reported EPS": "27.25"
     },
     {
@@ -4570,12 +4576,6 @@
         "Earnings Date": "2020-10-15 14:00",
         "EPS Estimate": "4.84",
         "Reported EPS": "5.3"
-    },
-    {
-        "Symbol": "2330.TW",
-        "Earnings Date": "2020-07-16 14:00",
-        "EPS Estimate": "4.26",
-        "Reported EPS": "4.66"
     },
     {
         "Symbol": "2454.TW",
@@ -4729,8 +4729,14 @@
     },
     {
         "Symbol": "2330.TW",
+        "Earnings Date": "2026-10-15 14:00",
+        "EPS Estimate": "28.03",
+        "Reported EPS": "-"
+    },
+    {
+        "Symbol": "2330.TW",
         "Earnings Date": "2026-07-16 14:00",
-        "EPS Estimate": "24.31",
+        "EPS Estimate": "24.23",
         "Reported EPS": "27.25"
     },
     {
@@ -4870,12 +4876,6 @@
         "Earnings Date": "2020-10-15 14:00",
         "EPS Estimate": "4.84",
         "Reported EPS": "5.3"
-    },
-    {
-        "Symbol": "2330.TW",
-        "Earnings Date": "2020-07-16 14:00",
-        "EPS Estimate": "4.26",
-        "Reported EPS": "4.66"
     },
     {
         "Symbol": "2303.TW",
@@ -7519,7 +7519,7 @@
     },
     {
         "Symbol": "000660.KS",
-        "Earnings Date": "2026-07-30 08:00",
+        "Earnings Date": "2026-07-29 08:00",
         "EPS Estimate": "70955.55",
         "Reported EPS": "-"
     },
