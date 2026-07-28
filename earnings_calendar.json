@@ -302,7 +302,7 @@
     {
         "Symbol": "GOOGL",
         "Earnings Date": "2026-10-29 04:00",
-        "EPS Estimate": "3.02",
+        "EPS Estimate": "3",
         "Reported EPS": "-"
     },
     {
@@ -1052,7 +1052,7 @@
     {
         "Symbol": "TSM",
         "Earnings Date": "2026-10-15 14:00",
-        "EPS Estimate": "4.5",
+        "EPS Estimate": "4.46",
         "Reported EPS": "-"
     },
     {
@@ -1652,7 +1652,7 @@
     {
         "Symbol": "QCOM",
         "Earnings Date": "2026-07-30 04:00",
-        "EPS Estimate": "2.23",
+        "EPS Estimate": "2.22",
         "Reported EPS": "-"
     },
     {
@@ -2402,7 +2402,7 @@
     {
         "Symbol": "NXPI",
         "Earnings Date": "2026-07-29 04:00",
-        "EPS Estimate": "3.52",
+        "EPS Estimate": "3.53",
         "Reported EPS": "-"
     },
     {
@@ -4430,7 +4430,7 @@
     {
         "Symbol": "2330.TW",
         "Earnings Date": "2026-10-15 14:00",
-        "EPS Estimate": "27.95",
+        "EPS Estimate": "28.01",
         "Reported EPS": "-"
     },
     {
@@ -4580,7 +4580,7 @@
     {
         "Symbol": "2454.TW",
         "Earnings Date": "2026-07-31 15:00",
-        "EPS Estimate": "14.13",
+        "EPS Estimate": "14.43",
         "Reported EPS": "-"
     },
     {
@@ -4730,7 +4730,7 @@
     {
         "Symbol": "2330.TW",
         "Earnings Date": "2026-10-15 14:00",
-        "EPS Estimate": "27.95",
+        "EPS Estimate": "28.01",
         "Reported EPS": "-"
     },
     {
@@ -5426,7 +5426,7 @@
     {
         "Symbol": "5347.TWO",
         "Earnings Date": "2026-08-04 13:00",
-        "EPS Estimate": "1.53",
+        "EPS Estimate": "1.52",
         "Reported EPS": "-"
     },
     {
@@ -5726,8 +5726,8 @@
     {
         "Symbol": "3035.TW",
         "Earnings Date": "2026-07-28 14:00",
-        "EPS Estimate": "0.47",
-        "Reported EPS": "-"
+        "EPS Estimate": "0.51",
+        "Reported EPS": "0.76"
     },
     {
         "Symbol": "3035.TW",
