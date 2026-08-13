@@ -6067,6 +6067,12 @@
     },
     {
         "Symbol": "2379.TW",
+        "Earnings Date": "2026-08-12 14:00",
+        "EPS Estimate": "7.76",
+        "Reported EPS": "7.38"
+    },
+    {
+        "Symbol": "2379.TW",
         "Earnings Date": "2026-05-14 14:00",
         "EPS Estimate": "8.45",
         "Reported EPS": "8.44"
@@ -6202,12 +6208,6 @@
         "Earnings Date": "2020-11-11 14:00",
         "EPS Estimate": "4.87",
         "Reported EPS": "4.89"
-    },
-    {
-        "Symbol": "2379.TW",
-        "Earnings Date": "2020-08-12 14:00",
-        "EPS Estimate": "3.84",
-        "Reported EPS": "3.95"
     },
     {
         "Symbol": "2344.TW",
