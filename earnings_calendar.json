@@ -1801,9 +1801,15 @@
     },
     {
         "Symbol": "MRVL",
+        "Earnings Date": "2026-12-02 04:00",
+        "EPS Estimate": "1.08",
+        "Reported EPS": "-"
+    },
+    {
+        "Symbol": "MRVL",
         "Earnings Date": "2026-08-28 04:00",
         "EPS Estimate": "0.93",
-        "Reported EPS": "-"
+        "Reported EPS": "0.94"
     },
     {
         "Symbol": "MRVL",
@@ -1942,12 +1948,6 @@
         "Earnings Date": "2020-12-04 05:00",
         "EPS Estimate": "0.25",
         "Reported EPS": "0.25"
-    },
-    {
-        "Symbol": "MRVL",
-        "Earnings Date": "2020-08-28 04:00",
-        "EPS Estimate": "0.2",
-        "Reported EPS": "0.21"
     },
     {
         "Symbol": "ADI",
