@@ -1201,6 +1201,12 @@
     },
     {
         "Symbol": "AVGO",
+        "Earnings Date": "2026-12-10 04:00",
+        "EPS Estimate": "3.87",
+        "Reported EPS": "-"
+    },
+    {
+        "Symbol": "AVGO",
         "Earnings Date": "2026-09-03 04:00",
         "EPS Estimate": "3.24",
         "Reported EPS": "-"
@@ -1342,12 +1348,6 @@
         "Earnings Date": "2020-12-11 05:00",
         "EPS Estimate": "0.62",
         "Reported EPS": "0.64"
-    },
-    {
-        "Symbol": "AVGO",
-        "Earnings Date": "2020-09-04 04:00",
-        "EPS Estimate": "0.52",
-        "Reported EPS": "0.54"
     },
     {
         "Symbol": "AMD",
